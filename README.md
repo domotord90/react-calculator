@@ -1,3 +1,3 @@
 ## React Calculator
 
-Calculator using react-hooks
+Calculator using react-hooks and styled components
